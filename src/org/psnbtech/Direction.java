@@ -23,7 +23,7 @@ public enum Direction {
 	South,
 	
 	/**
-	 * Moving West (Left).
+	 * Moving West (Left)
 	 */
 	West
 	
